@@ -23,7 +23,6 @@
   transform: translate3d(0, 0, 0);
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
-  z-index: -1;
 }
 
 .scrivito_section_video_widget video {
